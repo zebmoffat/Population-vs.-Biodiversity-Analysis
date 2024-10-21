@@ -1,0 +1,3 @@
+The names of these files were changed for clarity. The original name of "biodiversity_data_new_york_counties.csv" was "" and the original name of "population_data_new_york_counties.xlsx" was "co-est2023-pop-36.xlsx".
+- The biodiversity data is availible from https://catalog.data.gov/dataset/biodiversity-by-county-distribution-of-animals-plants-and-natural-communities
+- The population data is availible from https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html
