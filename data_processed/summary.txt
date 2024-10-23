@@ -1,0 +1,14 @@
+Summary Statistics
+                                       +-------------+-------------+------------+
+Quantitative Features                  |   Minimum   |   Maximum   |   Median   |
+                                       +-------------+-------------+------------+
+Population per County                  |       5,082 |   2,561,225 |     86,077 |
+Documented Group Count per County      |         161 |         733 |      323.5 |
+Midpoint Documentation Year per County |        1993 |        2011 |       2005 |
+                                       +-------------+-------------+------------+
+                                       +----------------------+-----------------------------------+----------------------------------------------+
+Qualitative Features                   | Number of Categories | Most Frequent Category/Categories |      Least Frequent Category/Categories      |
+                                       +----------------------+-----------------------------------+----------------------------------------------+
+Taxonomic Group                        |                   27 |                             Birds |                         Stoneflies, Mayflies |
+Taxonomic Subgroup                     |                  104 |            Other Flowering Plants |    Rove Beetles, Killifishes, Diving Beetles |
+                                       +----------------------+-----------------------------------+----------------------------------------------+

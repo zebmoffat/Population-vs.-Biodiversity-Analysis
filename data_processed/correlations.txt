@@ -1,0 +1,8 @@
+Pairwise Correlations
+                                       +-----------------------+-----------------------------------+----------------------------------------+
+                                       | Population per County | Documented Group Count per County | Midpoint Documentation Year per County |
+                                       +-----------------------+-----------------------------------+----------------------------------------+
+Population per County                  |                   1.0 |                                   |                                        |
+Documented Group Count per County      |    0.8488116704469895 |                               1.0 |                                        |
+Midpoint Documentation Year per County |    0.3154709381404075 |                0.5269723360554704 |                                    1.0 |
+                                       +-----------------------+-----------------------------------+----------------------------------------+
