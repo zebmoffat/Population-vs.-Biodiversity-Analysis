@@ -135,3 +135,5 @@ if __name__ == '__main__':
     wf_ml_prediction.prediction()
 
     metrics()
+
+    print(counties_data)

@@ -48,7 +48,7 @@ def train():
         pickle.dump(lasso_regression, file)
 
     #Decision Tree Regression
-    decision_tree = DecisionTreeRegressor(max_depth=10)
+    decision_tree = DecisionTreeRegressor(max_depth=20)
     for train_index, test_index in kf.split(x):
         X_train, X_test = [x[i] for i in train_index], [x[i] for i in test_index]
         y_train, y_test = [y[i] for i in train_index], [y[i] for i in test_index]
