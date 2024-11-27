@@ -5,7 +5,7 @@ import wf_dataprocessing
 import wf_visualization
 import time
 
-if __name__ == '__main__':
+def run():
     print("Biodiversity data and population data from 'data_original/' will now be read and processed.")
     time.sleep(0.5)
     wf_dataprocessing.run()
@@ -15,3 +15,6 @@ if __name__ == '__main__':
     print("Summary statistics and pairwise correlations will now be calculated. "
           "Distributions of data will also be plotted.")
     wf_visualization.run()
+
+if __name__ == '__main__':
+    run()

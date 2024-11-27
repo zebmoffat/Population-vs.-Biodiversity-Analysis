@@ -1,0 +1,15 @@
+Evaluation Metrics for Decision Tree Regression model:
+	Mean Squared Error: 5962.532258064516
+	Mean Absolute Error: 17.467741935483872
+
+Evaluation Metrics for Lasso Regression model:
+	Mean Squared Error: 8325.099267261474
+	Mean Absolute Error: 67.7204996996323
+
+Evaluation Metrics for Linear Regression model:
+	Mean Squared Error: 8325.09926656795
+	Mean Absolute Error: 67.72049969651049
+
+Evaluation Metrics for Ridge Regression model:
+	Mean Squared Error: 8325.09926656795
+	Mean Absolute Error: 67.72049969651049
